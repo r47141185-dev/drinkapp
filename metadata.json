@@ -1,0 +1,6 @@
+{
+  "name": "今天喝什麼？",
+  "description": "可愛現代的手搖飲料隨機選擇器，幫你決定今天要喝哪家飲料店、什麼品項，並搭配隨機甜度、冰量與幽默評語！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
